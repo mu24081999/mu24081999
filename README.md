@@ -84,22 +84,10 @@ I'm a passionate full‑stack developer with strong experience in **Node.js, Exp
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 
-* 💼 **GitHub:** [https://github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-* 🔗 **LinkedIn:** (Add your LinkedIn)
-* 📧 **Email:** (Add your email)
-
----
-
-⭐ If you like my work, consider giving a star to my repositories!
+* 💼 **GitHub:** [https://github.com/mu24081999](https://github.com/mu24081999)
+* 🔗 **LinkedIn:** (www.linkedin.com/in/muhammad-umar-liaqat-00b578181)
+* 📧 **Email:** (mu24081999@gmail.com)
 
 > *“Building secure, scalable solutions one commit at a time.”*
